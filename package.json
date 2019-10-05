@@ -11,10 +11,10 @@
   "author": "Pedro Teixeira <pedro.teixeira@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nock/nock.git"
+    "url": "https://github.com/falcucci/nock.git"
   },
   "bugs": {
-    "url": "http://github.com/nock/nock/issues"
+    "url": "http://github.com/falcucci/nock/issues"
   },
   "engines": {
     "node": ">= 8.0"
